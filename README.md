@@ -504,7 +504,7 @@ We seek approval and support to proceed with the development of PULSE254. The in
 ---
 
 **Document Control:**
-- **Author:** [Your Name]
+- **Author:** Muoki Anna
 - **Review Date:** November 11, 2025
 - **Next Review:** Upon project approval
 - **Classification:** Confidential - Project Proposal
